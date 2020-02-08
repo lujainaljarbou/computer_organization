@@ -1,1 +1,1 @@
-# computer_organization
+# Computer Organization
